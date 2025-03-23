@@ -2,7 +2,7 @@
 
 ## 🚀 Deployment
 The app is deployed on **Render**. Check out the **live version** here:
-🔗 **[Yapster Live](https://yapster-yap-about-everything.onrender.com)**
+🔗 **[Yapster Live](https://yapster-yap-about-everything.onrender.com/signup)**
 
 
 ## 🚀 About the Project
