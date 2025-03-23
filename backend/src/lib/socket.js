@@ -7,7 +7,7 @@ const app=express();
 const server=http.createServer(app);
 const io=new Server(server,{
     cors:{
-        origin: process.env.NODE_ENV === "production" ? "https://yapster-yap-about-everything.onrender.com" : "http://localhost:5173",
+         origin: ["https://yapster-yap-about-everything.onrender.com","http://localhost:5173"]
     }
 });
 
