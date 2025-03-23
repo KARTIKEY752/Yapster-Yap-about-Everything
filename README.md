@@ -1,6 +1,9 @@
 # Yapster - Yap About Everything
 
-![Yapster Banner](https://your-banner-image-url.com)  
+## 🚀 Deployment
+The app is deployed on **Render**. Check out the **live version** here:
+🔗 **[Yapster Live](https://yapster-yap-about-everything.onrender.com)**
+
 
 ## 🚀 About the Project
 **Yapster** is a **full-stack MERN** messaging web application that enables users to chat in **real-time**. It allows users to create an account, send messages, and share images, all while providing a seamless experience with **socket-based real-time messaging** and **online status tracking**. 
@@ -29,11 +32,6 @@ The app also features a **customizable theme** with **32 different themes** powe
 - **Socket.io** (WebSockets for real-time chat)
 - **Cloudinary** (Image storage for chat images and profile pictures)
 - **MongoDB + Mongoose** (Database for users and messages)
-
-
-## 🚀 Deployment
-The app is deployed on **Render**. Check out the **live version** here:
-🔗 **[Yapster Live](https://yapster-yap-about-everything.onrender.com)**
 
 ## 🎯 Getting Started
 ### Prerequisites
