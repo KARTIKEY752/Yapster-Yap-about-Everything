@@ -60,20 +60,6 @@ Make sure you have **Node.js** and **MongoDB** installed on your system.
    CLOUDINARY_API_SECRET=your_cloudinary_secret
    ```
 
-4. **Start the backend server**
-   ```sh
-   npm run server
-   ```
-
-5. **Start the frontend**
-   ```sh
-   cd client
-   npm start
-   ```
-
-## 🎨 UI Preview
-![Yapster Chat UI](https://your-chat-ui-image-url.com)
-
 ## 🤝 Contributing
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`)
@@ -81,10 +67,9 @@ Make sure you have **Node.js** and **MongoDB** installed on your system.
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 📧 Contact
 - Developer: **Kartikey Vishwakarma**
 - Email: **kartikey752@gmail.com**
 - GitHub: **[Your GitHub](https://github.com/KARTIKEY752)**
+
+- Enjoyed making this project .Learned a lot from this
